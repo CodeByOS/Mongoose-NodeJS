@@ -28,8 +28,8 @@ Before running the project, ensure you have the following:
 Clone the project to your local machine using Git:
 
 ```bash
-git clone https://github.com/your-username/mongoose-crud-operations.git
-cd mongoose-crud-operations
+git clone https://github.com/CodeByOS/Mongoose-NodeJS
+cd Mongoose-NodeJS
 ```
 
 ### 2. Install Dependencies
